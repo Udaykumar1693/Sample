@@ -1,0 +1,12 @@
+<project>
+<! -- project name -->
+<artifactId>hello-world</artifactId>
+<!-- organiation ->
+<group Id> org.admin </groupId>
+<! --version of pom.xml -->
+<modelversion>4.0.0</modelversion>
+<!-- version of artifact / component -->
+<version>1.0-snapshot</version>
+<!-- packing jar/war -->
+<packing> jar </packing>
+</project>
